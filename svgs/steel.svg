@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>steel</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="steel" sketch:type="MSArtboardGroup" stroke="#1A1918" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M68.6674286,62.0866667 L33.7211429,62.0866667 C35.5634286,59.7675 41.3211429,56.1592708 41.552,55.9129167 C41.7817143,47.6778125 34.4114286,46.3646875 33.7211429,46.0530208 C14.376,42.9065625 10,30.6427083 10,30.6427083 L33.7211429,30.6427083 L33.7257143,23 L84.712,23.01375 L84.7085714,39.149375 C84.7085714,39.149375 66.2445714,41.2405223 61,55.9129181 L68.6674286,62.0866667 Z M33.68,62.0866667 L68.6685714,62.0866667 L68.6685714,73.3673958 L33.68,73.3673958 L33.68,62.0866667 Z" id="Imported-Layers" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

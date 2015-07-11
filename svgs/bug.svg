@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>bug</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="bug" sketch:type="MSArtboardGroup">
+            <path d="M50,32.0029218 C50,32.0029218 36.8133123,31.7151845 29.0983789,36.8505641 C21.4587523,62.6542618 22.4858078,82.3975938 49.8061252,85.982118 C49.8782274,85.9918718 49.9487273,86 49.9487273,86" id="Imported-Layers" stroke="#1A1918" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+            <path d="M50,32.0029218 C50,32.0029218 63.1866877,31.7151845 70.9016211,36.8505641 C78.5412477,62.6542618 77.5141922,82.3975938 50.1938748,85.982118 C50.1217726,85.9918718 50.0512727,86 50.0512727,86" id="Imported-Layers" stroke="#1A1918" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+            <path d="M49.9865347,74.6402 C49.9865347,74.6402 71.6157112,81.4071 70.9865347,33" id="Imported-Layers" stroke="#1A1918" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup" transform="translate(60.493267, 53.981627) scale(-1, 1) translate(-60.493267, -53.981627) "></path>
+            <path d="M29,74.6402 C29,74.6402 49.6291765,81.4071 50,33" id="Imported-Layers" stroke="#1A1918" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+            <path d="M50,31 C50,31 46.4319112,15.0330158 28,16.0462624" id="Imported-Layers" stroke="#1A1918" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+            <path d="M72,31 C72,31 68.4319112,15.0330158 50,16.0462624" id="Imported-Layers" stroke="#1A1918" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup" transform="translate(61.000000, 23.500000) scale(-1, 1) translate(-61.000000, -23.500000) "></path>
+            <circle id="Oval-1" fill="#1A1919" sketch:type="MSShapeGroup" cx="23.5" cy="16.5" r="5.5"></circle>
+            <circle id="Oval-1" fill="#1A1919" sketch:type="MSShapeGroup" cx="76.5" cy="16.5" r="5.5"></circle>
+        </g>
+    </g>
+</svg>

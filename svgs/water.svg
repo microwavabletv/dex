@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>water</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="water" sketch:type="MSArtboardGroup" stroke="#1A1918" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M46,12 C46,12 78.3009171,33.1085973 75.8692895,60.4450287 C75.8398598,60.1295096 74.3205524,86.9963312 46,87 M46,12 C46,12 13.6990829,33.1085973 16.1307105,60.4450287 C16.1601402,60.1295096 17.6794476,86.9963312 46,87 M68.0004041,59.6470588 C68.0004041,59.6470588 69.2566951,66.8561878 60.1176471,73.7647059" id="Imported-Layers" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

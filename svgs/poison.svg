@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>poison</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="poison" sketch:type="MSArtboardGroup" stroke="#1A1918">
+            <path d="M50.5165,58.299 C67.213,58.467 65.737,51.0225 65.737,51.0225 C65.737,51.0225 77.728,41.1525 72.3775,27.1005 C67.291,14.4705 50.332,15.0315 50.332,15.0315 M50.116,58.293 C33.421,58.461 34.897,51.0165 34.897,51.0165 C34.897,51.0165 22.9045,41.1465 28.255,27.0945 C33.3415,14.4645 50.3005,15.0255 50.3005,15.0255" id="Stroke-1" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+            <path d="M44.152,34.4325 C44.152,37.146 41.7265,39.345 38.7355,39.345 C35.743,39.345 33.3175,37.146 33.3175,34.4325 C33.3175,31.7205 35.743,29.5215 38.7355,29.5215 C41.7265,29.5215 44.152,31.7205 44.152,34.4325 L44.152,34.4325 Z M67.1395,34.434 C67.1395,37.146 64.714,39.3465 61.7215,39.3465 C58.729,39.3465 56.3035,37.146 56.3035,34.434 C56.3035,31.7205 58.729,29.5215 61.7215,29.5215 C64.714,29.5215 67.1395,31.7205 67.1395,34.434 L67.1395,34.434 Z" id="Stroke-2" stroke-width="4" sketch:type="MSShapeGroup"></path>
+            <path d="M81.823,60.3445 C81.772,54.568 78.115,54.7015 78.025,54.6475 C74.533,54.7405 75.1645,59.4655 75.1645,59.4655 L37.6765,70.7185" id="Path" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+            <path d="M22.276,78.2155 C18.7645,73.477 21.829,71.593 21.868,71.5 C24.7735,69.6745 27.1645,73.873 27.1645,73.873 L64.6585,62.6365" id="Path" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+            <path d="M81.4135,60.1735 C81.4135,60.1735 84.7135,61.3765 84.2875,64.6975 C84.238,64.7605 83.815,68.2525 79.8835,66.103 L39.925,78.487" id="Path" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+            <path d="M22.657,78.343 C22.657,78.343 20.7385,81.1615 23.158,83.6005 C23.239,83.6245 25.762,86.2045 27.6025,82.2685 L67.696,69.883" id="Path" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+            <path d="M21.5395,59.3365 C21.445,54.9265 25.0015,55.513 25.087,55.483 C28.4845,56.0155 27.988,59.545 27.988,59.545 L48.0000006,66.9999997 M80.858,79.8825 C84.152,76.7235 81.1265,74.8785 81.086,74.802 C78.2165,73.0215 75.998,75.915 75.998,75.915 L64,71 M20.9325,60.26 C20.9325,60.26 17.7555,60.743 18.2535,63.3395 C18.303,63.395 18.801,66.1205 22.569,64.997 L37.0000003,70.9999998 M79.489,80.929 C79.489,80.929 81.4255,83.338 79.1335,84.8845 C79.057,84.892 76.669,86.53 74.782,83.278 L52,75" id="Stroke-3" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+            <path id="Stroke-4" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+            <path d="M50.2315,51.231 L50.2315,58.122 M44.0095,51.231 L44.0095,57.762 M55.9255,51.231 L55.9255,57.702" id="Stroke-5" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

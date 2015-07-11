@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>psychic</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="psychic" sketch:type="MSArtboardGroup" stroke="#1A1918" stroke-width="4">
+            <path d="M88,50.5009025 C88,71.2107873 71.2107873,88 50.4990975,88 C29.7892127,88 13,71.2107873 13,50.5009025 C13,49.4250644 13.0451274,48.3618619 13.1335772,47.30949 C14.7527498,28.092421 30.8650509,13 50.4990975,13 C69.4634528,13 85.1407254,27.0779561 87.648006,45.3527642 C87.8790585,47.0369203 88,48.7535681 88,50.5009025 L88,50.5009025 Z" id="Stroke-1" sketch:type="MSShapeGroup"></path>
+            <path d="M14,53 C14,53 47.0551462,21.5 86,53" id="Stroke-2" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+            <path d="M34.0011539,43 C34.0011539,43 33.5416653,62 50.9612694,62 M66.9988459,43 C66.9988459,43 67.4583345,62 50.0405113,62 M59.1537016,46.3376908 C59.1537016,46.3376908 59.1252062,52.4347328 53.7217629,53.9014313" id="Stroke-4" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>
